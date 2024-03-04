@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+.contact-info {
+    text-align: left;
+    padding-left: 20px; /* 这会在左边添加一些内边距 */
+}
+
+
+header {
+    text-align: left;
+    padding: 1em;
+    background-color: #333;
+    color: white;
+}
+
+footer{
+    text-align: left;
+    padding: 1em;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+#cover-letter {
+    margin: 2em auto;
+    width: 80%;
+    padding: 1em;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#cover-letter h2 {
+    color: #333;
+}
+
+#cover-letter p {
+    line-height: 1.6;
+}
